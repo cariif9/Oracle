@@ -1,0 +1,140 @@
+session one , two and three
+
+
+TYPES OF RDBMS
+
+2 TYPES OF RDBMs																				
+==========
+1:OL:TP== ONLINE  TRANSACTION PROCESSESI 		
+2:OL:AP=== ONLIE ANLYTICAL PROCESSES
+
+
+1:TYPES OF USERS 
+2:COMPNEENTS OF DATABASE(SQL&PL/SQL)
+3:CREATE AND DELETE USER ANY USER ACCOUNT
+
+
+
+
+SESSION  TWO  OF ORACLE  DATABASE TRAIANING
+
+ORACLE DB USERS
+
+THERE TWO TYPES OF USER AND THEY ARE:: NON-TECHNICAL USERS AND TECHNICAL USERS
+
+1::THE TECHNICAL USERS  ARE  DBA OR ORACLE SQL OR PL/SQL DEVELOPER========DBA MEANS DATABASE ADMINISTRATOR 
+2::THE NON-TECHNICAL USERS ARE END USERS OR BACK-END EMPLOYEES ==THEY DON'T KNOW  WHAT HAPPENS BEYOND THEM
+
+#THE NON-TECHNICAL USERS MAY BE USE Ui LIKE WEBPAGES INTRACTES WITH  ORACLEDATABASE THE REQUEST WILL BE SENDT TO BACK-END DATABASE
+
+#THE TECHNICAL USERS  MAY BE USING WEBPAGES OR CLIENT TOOLS TO  INTRACTES WITH ORACLE DATABASE 
+
+
+CLIENT TOSLS ARE DIVED INTO TWO TYPES
+ 
+	
+	↱=>commnod  user interface							
+												  ↟↱=>graphic user interface
+					
+1::CUI==================================and 2::: GUI
+     <||>                                                                                         <||>
+
+#sql plus                                                                            SQL DEVELOPER               } YOU DON'T NEED TO WRITE COMMANDS WHEN U ARE USING 
+                                                                                              PL/SQL                                 } THESE GUI TOOLS   
+                                                                                               TOAD                                   }
+                                                                                               ^^^^^^
+                                                                                             (TOOLS FOR ORACLE APPLICATION DEVELOPMENT)
+
+
+
+###############################
+HOW TO COONECT TO THE DATABASAE  as DBA
+===================================
+WHEN U ARE INASTALING oracle DATABASE YOU NEED TO SUBMIT ADMINSTRATOR USER NAME  AND PASSWORD 
+
+HOW TO CREATE USER  AS DBA USING SQL*pLUS
+SQL>CREATE USER USER  USERNAME IDENTIFIED BY "USE U PASSWORD"PASSWORD
+
+HOW  TO  BE GRANT A USER 
+SQL>GRANT   RESOURCE, CONNECT TO  USER"ENTER YOUR  USERNAME"
+
+
+ORACLE  DATABASE  HAVE TWO PARTS  AND THEY ARE  {1:SQL AND  2:: PL/SQL ==PROCEDERAL LANGUAGE USING SQL}
+
+
+EXCUTAION PROCESSE 
+   
+THE TECH-USER SUBMITING REQUEST A REQUEST SHOULD BE WRITTEN INTHE FORM OF↘↘  
+                                                                                                                                                                                                   QUERIES
+                                                                                                                                                                                                         ↟↟↟
+TEACH_USER REQUESTS  SOME INFO OR MAY BE SOME TRANSACTIONS  FROM   DATABASE USING SQL TO COMMUNICATE 
+WITH THE DATABASE AND THE EXCUTION OF THESE QUERY YOU ARE GETTING  SOME OUTPUT  THE OUTPUT WILL REPLY SQL WINDOW THIS IS EXCUTION PROCESES OR COMMUNICATATION  TECH-USER
+
+{WHAT ARE THE PROPERTIES OF SQL }
+==================================
+FOUR  PROPERTIES  ARE
+
+1::::: IN SQL PLUS EACH QUERY SHOULD BE TERMINATED WITH THE SEMICOLON== THE END OF QUERY MUST BE A SEMICOLON
+2::::: SQL QURRIES  ARE NOT CASE-SENSITIVE = MAY BE UPPER-CASE OR LOWWER-CASE OR MIXED-CASE
+3::::: IN SQL PLUS WINDOW YOU CAN EXCUTE AT ATIME ONLY ONE QUERY 
+4:::::SQL IS ANSI STANDARD MRANS::SQL IS UNIVERSALAY `ACCEPTED BY ANY RDBM
+
+
+  
+
+
+
+
+
+
+SESSION  3  ORACLE DATABASE  TRAINING
+
+
+
+                                                                                                SQL COMMONDS
+
+
+                                 ↱ used by structure
+1)DDL COMMOMDS=>  DATA DEFINSION LANGUAGE== a) CREATE  b)ALTER  c)DROP d)TRUNCATE 
+ 
+                                 ↱used by data
+2)DML COMMONDS=> DATA MANIPULATION LANGUAGE ==> a)INSERT b)UPDATE c)DELETE
+
+ 
+                                      ↱used by DBA  
+3)DCL COMMONDS=> DATA CONTROL LANGUAGE ==> a)GRANT  b)REVOKE
+
+                                     ↱LOGICAL COPY DATA
+4)DRL COMMONDS => DATA RETRIFEL  LANGUAGE ==>a) SELECT
+
+                                    ↱REALATED COMPLETLY TRANSACTION
+5)TCL COMMONDS=> TRANSACTION CONTROL LANGUAGE==> a)COMMOT b)ROLLBEACK c)SAVEPIONT
+=======================================================================================
+
+YOU CAN USE CREATE ANY DATABASE OBJECT
+                                                        ⇓⇓⇓⇓⇓
+                                                        ⇬⇬⇬⇬⇬                                             USERS,TABLE,VIEW,INDEX,SEQUENCE,CLUSTRES,SYSNONYMS,PROCEDUERS,FUNCTIONS,TRIGGERS,PACKGES,ETC
+
+
+WHAT IS A TABLE TABLE IS TWO DIEMNSIONAL OBJECT IT CONTAINS ROWS AND COLUMNS
+
+THE ROW IS HORIZENTAL AXIS AND COLUMN IS VERTICAL AXIS 
+THE INFORMATION STORED VERTICAL IS KNOWN AS FIELD
+THE INFORMATION STORED  HORIZENTALIS KNOWN AS RECORD OR ROW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

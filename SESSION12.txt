@@ -1,0 +1,28 @@
+									SESSION11
+									==========
+
+									JOINS=====
+
+TYPES OF JOINS ARE TWO 1>IS PHYSICAL JOINS 2>IS LOGICAL JOINS 
+								↓
+Implementing relation B/w Tables 					↘is divided by two types				and same num of clms		
+Using By Integrity constraints						1>combined data?= is same data type of data used by set oper
+This is permanent									2>combination of data
+													Using by types of joins and they are 
+													1>Cross	2>inner 3>outer 4>self joins	
+																			↓⇓
+																			1>left 2>Rigth3> full 
+
+
+
+
+						<1>	
+1>What is cross join ==cartesian product  <1> Combination of data between tables
+
+
+
+
+
+
+
+

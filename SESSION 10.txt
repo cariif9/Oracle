@@ -1,0 +1,16 @@
+										SESSION 10
+										=========
+
+
+
+SET OPERATERS  FETCH DATA FROM MULTIPLE 
+									        ↓
+SAME DATA TYPE  OF DATA 				↘JOINS=>DIFFRENT DATA TYPE OF DATA						
+
+
+
+TYPES OF SETOPERATERS
+1)UNION ALL==>repeats of all  duplicate values
+2)UNION===> eliminates  duplicate values
+3)INTERSEC==>Only Common data
+4)MINUS

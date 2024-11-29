@@ -1,0 +1,55 @@
+													session 7 
+													========
+							ARITHMTIC OPEEATIONS
+
+
+ARITHMTIC OPEEATIONS==>is used to perform arithmetic calculation			
+
+
+types of ARITHMTIC OPEEATIONS is +,-,* and /
+
+
+perform the calculations based on dual table
+
+WHAT IS DUAL TABLE?
+
+DUAL TABLE is system defined table
+
+
+
+
+
+               								RELATIONAL OPERATERS
+									======================
+
+=,>,<,<=,>=
+
+
+REALATIONAL OPERATERS IS USED BY COMPARISIONR
+
+
+
+  
+
+
+									SESSION8
+
+
+SPECIAL OPERATORS
+
+
+a)BETWEEN=> RANGE OF VALUE===Data type supports Numeric Range date Data Type
+b)IN=> LIST OF VALUE
+c)ISNULL=>IT RETURN TRUE IF THE COLUMN VALUE IS NULL
+c)LIKE=>SUPORTS STRING BASED ON KNOWN PART
+
+
+
+
+
+
+
+
+
+
+	

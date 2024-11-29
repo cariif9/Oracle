@@ -1,0 +1,129 @@
+							SESSION  FOUR
+  
+Of Oracle Database Training
+
+
+                                                                             DATA TYPES
+A)CHARACTER "STRING" DATATYPE
+
+
+                             ↱nchar(size) fixed number of character           
+1:CHAR DATATYPE===>MINIMUM SIZE IS 1char  AND THE MAXIMUM SIZE IS 2,000 CHAR
+
+
+                 ↱nvarchar2(size)            
+2:varchar2====== is used to store variable character  length means length is not fixed
+AND THE MAXIMUM SIZE IS 4,000=>4KB
+
+3:LONG DATATYPE=>MAXIMUM SIZE IS 2GB|ONLY ONE COLUMN CAN SPECIFY LONG DATA TYPE "NO MORE THAN ONE"
+======================================
+
+B)NUMBER DATA TYPE
+
+
+                     ↱==Total number of didgits
+                     ↟  
+1)NUMBER(PRECISION)== numeric value without  pionts
+
+						   ↱=>The value of After decimal pionts total numbers:: and the maximum is up to 4 			
+						  ↟												
+2)NUMBER(PRECISION, SCALE)==>NUMERIC VALUE WITH PIONTS
+
+========================================================================================
+
+C) DATE DATATYPE
+
+=> DD-mon-yy  ====> 22-sep-23 this format is the only format can support oracle surver
+==========================================================================
+
+D) Binary datav ==UNSTRUCTERD DATA ---PICTURES,DIGITAL-SIGN,LOGOS,OUDIS,AND VEDIO
+
+1)RAW(SIZE) MAXIMUM SIZE IS 2000BYTE
+
+2)LONGRAW(SIZE) MAXIMUM SIZE IS 2GB
+=================================================================
+
+
+E)LARGEOBJECTS(LOB)
+
+
+1)CHRACTER LARGE OBJECT(CLOB)=>TO STORE CHAR OF  HIS VALUE IS MORE THAN 2GB USE (CLOB)
+
+2)BINARY LARGE OBJECT (BLOB)=>TO STROE BINARY OBJECT  VALUE MORE THAN 2GB, THENUSE(BLOB) 
+
+3)MULTI CHARACTER LARGE OBJECT(NLOB)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    		SESSION 5
+										=========
+
+
+
+						DML
+						====
+
+
+A)INSERT=>USED TO INSERT ONE RECORD AT A TIME INTO A TABLE 		
+
+										SYNTEX
+										======
+
+				↱YOUR TABLE NAME
+				↟		
+INSERT INTO <TABLE_NAME> [(CLO1, OL2,COL3)] VALUES (VAL1,VAL2,VAL3)									
+
+
+NULL VALUE is known as garbage value \ mised value while inserting data
+
+
+NULL VALUE  CAN BE INSERTED IN TO TWO METHODS
+
+1)IMPLICIT ===>OUTOMATICAL NULL INSERTING
+2)EXPLICIT===>MANUAL INSERTING NULL VALUE INTO A TABLE
+
+
+										
+							DR
+							===
+
+SELECT STATEMENTS=>	
+							SYNTEX
+
+SELECT  COL1,COL2/ * FROM   TABLE_NAME
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
